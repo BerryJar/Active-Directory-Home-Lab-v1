@@ -6,3 +6,7 @@ I ensured that my computer had adequate resources to host two virtual machines p
 
 
 ![Getting Started](https://github.com/BerryJar/Active-Directory-Home-Lab-v1/assets/149718107/bb5d7b8d-3068-408a-add5-0ed8efab04ff)
+
+I configured the VM to skip unattended installation, 
+
+
